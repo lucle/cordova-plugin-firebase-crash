@@ -8,6 +8,9 @@ The changes documented here do not include those from the original repository.
 
 ## [Unreleased]
 
+### 2022-11-10
+- Use fixed versions (https://outsystemsrd.atlassian.net/browse/RMET-2045).
+
 ## [3.0.0-OS7]
 
 ## 2022-07-14
