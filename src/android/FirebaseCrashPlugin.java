@@ -10,8 +10,6 @@ import com.google.firebase.crashlytics.FirebaseCrashlytics;
 import org.apache.cordova.CallbackContext;
 import org.json.JSONArray;
 import org.json.JSONException;
-import by.chemerisuk.cordova.support.CordovaMethod;
-import by.chemerisuk.cordova.support.ReflectiveCordovaPlugin;
 
 public class FirebaseCrashPlugin extends ReflectiveCordovaPlugin {
     private final String TAG = "FirebaseCrashPlugin";
